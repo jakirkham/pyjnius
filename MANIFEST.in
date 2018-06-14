@@ -1,2 +1,2 @@
 include *LICENSE
-recursive-include jnius *.pyx *.pxi
+recursive-include jnius *.pyx *.pxi *.java
